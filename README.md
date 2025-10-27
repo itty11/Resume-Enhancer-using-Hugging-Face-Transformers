@@ -111,12 +111,19 @@ The app will build automatically and go live at:
 
 ---
 title: Resume Enhancer AI
+
 emoji: 😻
+
 colorFrom: blue
+
 colorTo: blue
+
 sdk: gradio
+
 sdk_version: 5.49.1
+
 app_file: app.py
+
 pinned: false
 ---
 
